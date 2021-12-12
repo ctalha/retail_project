@@ -1,0 +1,15 @@
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\bin\Debug\net5.0\Retail.Entities.deps.json
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\bin\Debug\net5.0\Retail.Entities.dll
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\bin\Debug\net5.0\ref\Retail.Entities.dll
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\bin\Debug\net5.0\Retail.Entities.pdb
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\obj\Debug\net5.0\Retail.Entities.csproj.AssemblyReference.cache
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\obj\Debug\net5.0\Retail.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\obj\Debug\net5.0\Retail.Entities.AssemblyInfoInputs.cache
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\obj\Debug\net5.0\Retail.Entities.AssemblyInfo.cs
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\obj\Debug\net5.0\Retail.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\obj\Debug\net5.0\Retail.Entities.dll
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\obj\Debug\net5.0\ref\Retail.Entities.dll
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\obj\Debug\net5.0\Retail.Entities.pdb
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\bin\Debug\net5.0\Retail.Core.dll
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\bin\Debug\net5.0\Retail.Core.pdb
+C:\Users\Talha\source\repos\RetailProject\Retail.Entities\obj\Debug\net5.0\Retail.Entities.csproj.CopyComplete
